@@ -1,32 +1,8 @@
 
-# canshare
-第三方登录分享。集成微信、QQ、Sina官方sdk，实现登录与分享功能。
+# gamesdk
+
 
  
- 
-## 添加依赖
-```
-compile 'com.canyinghao:canshare:1.1.7'
-```
- 
-## 使用方式 
-**1. 使用方法**  
-canshare是第三方登录分享库。使用方式参照Demo。
-
-**2. 注意事项**  
-可以兼容到14+。  
-使用的其它库：
-
-        compile 'com.android.support:appcompat-v7:25.2.0'
-        compile 'com.canyinghao:canokhttp:1.5.0'
-        compile 'com.sina.weibo.sdk:core:1.0.0:openDefaultRelease@aar'
-
-**3.更新日志**   
-
-- 更新1.1.7
- - 更新依赖库
- - 解决QQ空间横屏下分享后回调到失败的方法的问题。
-
 
 ### 开发者
 
